@@ -22,13 +22,9 @@ How long & how many users are required to run the test?
 
 When to stop an A/B test?
 
-How to determine P-value and its significane?
+How to determine P-value and its significane? 
 
-Data Tracking
-
-A/B test design 
-
-How to present results
+How to present the results?
 
 ## Conclusion
 H1 - with the introduction of the tailored ads, users are more likely to click on the ads, therefore the CTR difference  > 5.5% per user.
